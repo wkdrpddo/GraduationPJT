@@ -1,0 +1,57 @@
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.csprojAssemblyReference.cache
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\Broadcaster.Form1.resources
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.Properties.Resources.resources
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.csproj.GenerateResource.cache
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.csproj.CoreCompileInputs.cache
+C:\Users\fpahs\source\repos\B_super\B_super\bin\Debug\B_super.exe.config
+C:\Users\fpahs\source\repos\B_super\B_super\bin\Debug\B_super.exe
+C:\Users\fpahs\source\repos\B_super\B_super\bin\Debug\B_super.pdb
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.exe
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.pdb
+C:\Users\fpahs\source\repos\B_super\B_super\bin\Debug\StringTokenizer.dll
+C:\Users\fpahs\source\repos\B_super\B_super\obj\Debug\B_super.csproj.CopyComplete
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\bin\Debug\B_super.exe.config
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\obj\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\obj\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\bin\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\bin\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\obj\Debug\B_super.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\obj\Debug\Broadcaster.Form1.resources
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\obj\Debug\B_super.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final\B_super\B_super\obj\Debug\B_super.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\bin\Debug\B_super.exe.config
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\obj\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\obj\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\bin\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\bin\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\obj\Debug\B_super.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\obj\Debug\Broadcaster.Form1.resources
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\obj\Debug\B_super.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try01\B_super\B_super\obj\Debug\B_super.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\bin\Debug\B_super.exe.config
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\obj\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\obj\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\bin\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\bin\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\obj\Debug\B_super.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\obj\Debug\Broadcaster.Form1.resources
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\obj\Debug\B_super.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try02\B_super\B_super\obj\Debug\B_super.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\bin\Debug\B_super.exe.config
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\obj\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\obj\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\bin\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\bin\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\obj\Debug\B_super.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\obj\Debug\Broadcaster.Form1.resources
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\obj\Debug\B_super.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\B_super\B_super\obj\Debug\B_super.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\bin\Debug\B_super.exe.config
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\obj\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\obj\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\bin\Debug\B_super.exe
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\bin\Debug\B_super.pdb
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\obj\Debug\B_super.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\obj\Debug\Broadcaster.Form1.resources
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\obj\Debug\B_super.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\B_super\B_super\obj\Debug\B_super.csproj.GenerateResource.Cache

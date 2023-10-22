@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringTok</name>
+    </assembly>
+    <members>
+        <member name="T:StringTok.StringTokenizer">
+            <summary>
+            A String Tokenizer that accepts Strings as source and delimiter. Only 1 delimiter is supported (either String or char[]).
+            </summary>
+        </member>
+        <member name="M:StringTok.StringTokenizer.#ctor(System.String,System.String)">
+            <summary>
+            Constructor for StringTokenizer Class.
+            </summary>
+            <param name="source">The Source String.</param>
+            <param name="delimiter">The Delimiter String. If a 0 length delimiter is given, " " (space) is used by default.</param>
+        </member>
+        <member name="M:StringTok.StringTokenizer.#ctor(System.String,System.Char[])">
+            <summary>
+            Constructor for StringTokenizer Class.
+            </summary>
+            <param name="source">The Source String.</param>
+            <param name="delimiter">The Delimiter String as a char[].  Note that this is converted into a single String and
+            expects Unicode encoded chars.</param>
+        </member>
+        <member name="M:StringTok.StringTokenizer.#ctor(System.String)">
+            <summary>
+            Constructor for StringTokenizer Class.  The default delimiter of " " (space) is used.
+            </summary>
+            <param name="source">The Source String.</param>
+        </member>
+        <member name="M:StringTok.StringTokenizer.#ctor">
+            <summary>
+            Empty Constructor.  Will create an empty StringTokenizer with no source, no delimiter, and no tokens.
+            If you want to use this StringTokenizer you will have to call the NewSource(string s) method.  You may
+            optionally call the NewDelim(string d) or NewDelim(char[] d) methods if you don't with to use the default
+            delimiter of " " (space).
+            </summary>
+        </member>
+        <member name="M:StringTok.StringTokenizer.NewSource(System.String)">
+            <summary>
+            Method to add or change this Instance's Source string.  The delimiter will
+            remain the same (either default of " " (space) or whatever you constructed 
+            this StringTokenizer with or added with NewDelim(string d) or NewDelim(char[] d) ).
+            </summary>
+            <param name="newSrc">The new Source String.</param>
+        </member>
+        <member name="M:StringTok.StringTokenizer.NewDelim(System.String)">
+            <summary>
+            Method to add or change this Instance's Delimiter string.  The source string
+            will remain the same (either empty if you used Empty Constructor, or the 
+            previous value of source from the call to a parameterized constructor or
+            NewSource(string s)).
+            </summary>
+            <param name="newDel">The new Delimiter String.</param>
+        </member>
+        <member name="M:StringTok.StringTokenizer.NewDelim(System.Char[])">
+            <summary>
+            Method to add or change this Instance's Delimiter string.  The source string
+            will remain the same (either empty if you used Empty Constructor, or the 
+            previous value of source from the call to a parameterized constructor or
+            NewSource(string s)).
+            </summary>
+            <param name="newDel">The new Delimiter as a char[].  Note that this is converted into a single String and
+            expects Unicode encoded chars.</param>
+        </member>
+        <member name="M:StringTok.StringTokenizer.CountTokens">
+            <summary>
+            Method to get the number of tokens in this StringTokenizer.
+            </summary>
+            <returns>The number of Tokens in the internal ArrayList.</returns>
+        </member>
+        <member name="M:StringTok.StringTokenizer.HasMoreTokens">
+            <summary>
+            Method to probe for more tokens.
+            </summary>
+            <returns>true if there are more tokens; false otherwise.</returns>
+        </member>
+        <member name="M:StringTok.StringTokenizer.NextToken">
+            <summary>
+            Method to get the next (string)token of this StringTokenizer.
+            </summary>
+            <returns>A string representing the next token; null if no tokens or no more tokens.</returns>
+        </member>
+        <member name="P:StringTok.StringTokenizer.Source">
+            <summary>
+            Gets the Source string of this Stringtokenizer.
+            </summary>
+            <returns>A string representing the current Source.</returns>
+        </member>
+        <member name="P:StringTok.StringTokenizer.Delim">
+            <summary>
+            Gets the Delimiter string of this StringTokenizer.
+            </summary>
+            <returns>A string representing the current Delimiter.</returns>
+        </member>
+    </members>
+</doc>

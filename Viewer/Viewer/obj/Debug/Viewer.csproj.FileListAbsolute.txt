@@ -1,0 +1,69 @@
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\obj\Debug\Viewer.Viewer.resources
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\bin\Debug\StringTok.pdb
+C:\Users\rhkdt\Desktop\Final_C#\Viewer\Viewer\bin\Debug\StringTok.xml
+C:\Users\rhkdt\Desktop\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Viewer\Viewer\bin\Debug\StringTok.pdb
+C:\Users\rhkdt\Desktop\Viewer\Viewer\bin\Debug\StringTok.xml
+C:\Users\rhkdt\Desktop\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Viewer\Viewer\obj\Debug\Viewer.Viewer.resources
+C:\Users\rhkdt\Desktop\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Final\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\bin\Debug\StringTok.pdb
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\bin\Debug\StringTok.xml
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\obj\Debug\Viewer.Viewer.resources
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try01\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\bin\Debug\StringTok.pdb
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\bin\Debug\StringTok.xml
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\obj\Debug\Viewer.Viewer.resources
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try02\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\bin\Debug\StringTok.pdb
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\bin\Debug\StringTok.xml
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\obj\Debug\Viewer.Viewer.resources
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try02 - 복사본\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\bin\Debug\Viewer.exe.config
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\obj\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\obj\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\bin\Debug\Viewer.exe
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\bin\Debug\Viewer.pdb
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\bin\Debug\StringTok.pdb
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\bin\Debug\StringTok.xml
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\obj\Debug\Viewer.csprojResolveAssemblyReference.cache
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\obj\Debug\Viewer.Viewer.resources
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\obj\Debug\Viewer.Properties.Resources.resources
+C:\Users\rhkdt\Desktop\Final_try02_파일전송\Viewer\Viewer\obj\Debug\Viewer.csproj.GenerateResource.Cache
